@@ -1,4 +1,6 @@
-is it necessary to create master csv from the data batches explain what data batches
+https://www.youtube.com/watch?v=Ly3Dor8HZUA&list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe&index=5 @ 00.22.52
+
+is it necessary to create master csv from the data batches explain what data batches https://chat.openai.com/c/0f471dd1-f45a-497c-a39c-43d5b4fba15d
 ChatGPT
 Creating a master CSV (Comma-Separated Values) file from data batches can be beneficial in certain situations, but it's not always necessary, and its necessity depends on your specific data processing needs and use cases. Let's break down the concept of data batches and when creating a master CSV might be necessary or advantageous:
 
